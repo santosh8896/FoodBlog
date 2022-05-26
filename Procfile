@@ -1,0 +1,1 @@
+web: gunicorn FoodBlog.wsgi
